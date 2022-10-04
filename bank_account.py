@@ -29,3 +29,5 @@ r.Withdrawal(50) # should drain account to zero
 r.Deposit(50) # put account back at 50
 r.bankFees()# balance = 47.5
 r.display()
+
+#heebee jeebies
